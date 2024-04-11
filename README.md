@@ -1,0 +1,2 @@
+# VITI-CARE-Cleaning-Maintenance-App-Worker-Version-
+This is the workers' version of t he VITI-CARE app, which is a cleaning/maintenance app which allows hostellers to apply for room cleaning or maintenance from the comfort of their homes.  Through this app, the workers will receive cleaning or maintenance request from hostellers and on completion will scan a QR on the hosteller version of the app.
